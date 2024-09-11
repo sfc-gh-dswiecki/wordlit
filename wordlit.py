@@ -371,7 +371,7 @@ def main():
     st.title("Wordlit.net")
     st.markdown(
         """
-        This tool uses NLP to generate a knowledge graph from the text you provide.\n
+        This tool uses dsw to generate a knowledge graph from the text you provide.\n
         Enter any text or upload a file and hit the '**Generate**' button to visualize the connections between entities.
         
         All code contributed by [Sahir Maharaj](%s) is licensed under Attribution 4.0 International
